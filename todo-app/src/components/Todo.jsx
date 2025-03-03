@@ -61,7 +61,7 @@ const Todo = () => {
         />
         <button
           onClick={add_note}
-          className="border-none rounded-full bg-orange-600 w-24 h-14 text-white text-lg font-medium cursor-pointer"
+          className="border-none rounded-full bg-green-500 w-24 h-14 text-white text-lg font-medium cursor-pointer"
         >
           <i className="pi pi-plus"></i>
         </button>
